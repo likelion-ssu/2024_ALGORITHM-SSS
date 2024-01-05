@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/choeseohyeon/Desktop/WorkSpace/2024_ALGORITHM-SSS/ChoiSeoHyeon",
+      "program": "/Users/choeseohyeon/Desktop/WorkSpace/2024_ALGORITHM-SSS/ChoiSeoHyeon/build/Debug/outDebug"
+    }
+  ]
+}
