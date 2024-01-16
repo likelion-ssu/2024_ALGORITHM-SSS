@@ -10,7 +10,7 @@ for i in str:
     elif i == '-':
         a = stack.pop()
         b = stack.pop()
-        stack.append(a-b)
+        stack.append(b-a)
     elif i == '*':
         a = stack.pop()
         b = stack.pop()
