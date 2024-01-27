@@ -6,8 +6,8 @@
 
 ## 👩🏻‍💻 SSS 멤버들 🧑🏻‍💻
 |      유승한      |      박수영       |     최서현      |    서채연     |
-|:------------------:|:------------------:|:------------------:|
-| <img src="https://avatars.githubusercontent.com/u/106146847?v=4" width="120" alt="챌린저 1 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/50361496?v=4" width="120" alt="챌린저 2 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/104755384?v=4" width="120" alt="챌린저 3 프로필 사진"> | 
+|:------------------:|:------------------:|:------------------:|:------------------:|
+| <img src="https://avatars.githubusercontent.com/u/106146847?v=4" width="120" alt="챌린저 1 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/50361496?v=4" width="120" alt="챌린저 2 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/104755384?v=4" width="120" alt="챌린저 3 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/94633589?v=4" width="120" alt="챌린저 4 프로필 사진"> | 
 | [@ryuseunghan](https://github.com/ryuseunghan) | [@clap-0](https://github.com/clap-0) | [@candosh](https://github.com/OneDay-OneAlgorithm/candosh) | [@seocylucky](https://github.com/seocylucky) | 
 
 
