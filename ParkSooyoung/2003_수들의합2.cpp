@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-// sum[i]: 수열의 1번째 수부터 i번째 수까지의 누적합. sum[0] = 0이다.
+// sum[i]: 수열의 1번째 수부터 i번째 수까지의 누적합
+// sum[0] = 0
 int sum[10001];
 
 int main()
